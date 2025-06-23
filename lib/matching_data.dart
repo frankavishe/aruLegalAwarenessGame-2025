@@ -1,0 +1,17 @@
+final List<Map<String, String>> matchingItems = [
+  {"Rustication": "Temporary expulsion from the university"},
+  {"Expulsion": "Permanent removal from the university"},
+  {"Student Agreement Form": "Must be signed before enrollment"},
+  {"Dean of Students": "Can temporarily evict a student from residence"},
+  {"Indecent Exposure": "Showing body parts contrary to moral standards"},
+  {"Sexual Harassment": "Includes physical and verbal misconduct"},
+  {"Identity Card": "Must be worn visibly on campus"},
+  {"Emergency Baraza": "Must be approved by DVC (Academic Affairs)"},
+  {"Cooking in halls": "Not allowed except in designated areas"},
+  {"Travel permission": "Required when leaving Dar during semester"},
+  {"Subletting": "Prohibited in university residences"},
+  {"Political Activity": "Banned on campus by student organizations"},
+  {"Forging Documents": "Punishable disciplinary offense"},
+  {"Musical Equipment": "Allowed if not disturbing others"},
+  {"Disciplinary Panel": "Includes staff and student representatives"},
+];
